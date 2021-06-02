@@ -8,6 +8,9 @@ The main bot instance is here: https://t.me/Crocodile_Game_Bot
 # ⚠️ This repo is no longer maintained
 We've migrated to a private repository.
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Installation
 ```
 go get -u github.com/nuetoban/crocodile-game-bot
